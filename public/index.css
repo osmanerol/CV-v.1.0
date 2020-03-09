@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Spartan:900&display=swap');
+
+.navbar-spe{
+    padding:1.5em
+}
+
+.navbar-brand{
+    font-family: 'Spartan', sans-serif;
+    font-size: 2em;
+}
+
+.nav-link{
+    font-family: 'Spartan', sans-serif;
+}
+
+.part{
+    margin-top:2em
+}
+
+#personal{
+    margin-top:2em
+}
+
+#personal img{
+    width:100%;
+}
+
+.title{
+    font-family: 'Spartan', sans-serif;
+}
+
+.icon{
+    font-size: 3em;
+}
+
+.head{
+    text-align:center
+}
+
+.progress-bar{
+    width:40%;
+    background-color:black
+}
